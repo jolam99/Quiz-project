@@ -22,7 +22,7 @@ body {
 }
 
 body.correct {
-  --hue: var(--hue-correct);
+  background-color: bisque;
 }
 
 body.wrong {
